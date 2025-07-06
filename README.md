@@ -14,14 +14,14 @@ _Add a screenshot here if you like:_
 
 ```
 project-folder/
-│
-├── index.html         # Main page with the menu
-├── one.html           # Page for Appetizers and Entrees
-├── two.html           # Page for Desserts, Beverages, About
+├── html/
+    └── index.html         # Main page with the menu
+    └── one.html           # Page for Appetizers and Entrees
+    └── two.html           # Page for Desserts, Beverages, About
 ├── css/
 │   └── style.css      # Menu styling
 └── images/
-    └── preview.png    # Optional screenshot
+    └── preview.png    # screenshot
 ```
 
 ## 🚀 How to Use
