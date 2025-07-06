@@ -7,7 +7,7 @@ A clean and stylish vertical navigation menu built with pure HTML and CSS. Ideal
 
 _Add a screenshot here if you like:_  
 ```markdown
-![Preview]()
+![Preview](images/preview.png)
 ```
 
 ## 📁 Project Structure
