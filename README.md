@@ -11,8 +11,8 @@ A clean and stylish vertical navigation menu built with pure HTML and CSS. Ideal
 
 ```
 project-folder/
+├── index.html         # Main page with the menu
 ├── html/
-    └── index.html         # Main page with the menu
     └── one.html           # Page for Appetizers and Entrees
     └── two.html           # Page for Desserts, Beverages, About
 ├── css/
